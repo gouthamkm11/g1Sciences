@@ -1,0 +1,100 @@
+/* .aboutContainer {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+} */
+
+.sectionHeader {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+.section1 {
+    box-sizing: border-box;
+    /* border: 5px solid black; */
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 15px;
+}
+
+.section1 > img {
+    width: 70%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0px auto;
+    display: block;
+}
+
+
+.section2 {
+    box-sizing: border-box;
+    /* border: 5px solid black; */
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 15px;
+}
+
+.section2 > p {
+    width: 70%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0px auto;
+    text-align: justify;
+    font-family: serif;
+    font-size: 24px;
+}
+
+.section3 {
+    box-sizing: border-box;
+    /* border: 5px solid black; */
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 15px;
+}
+
+.section3 > p {
+    width: 70%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0px auto;
+    text-align: justify;
+    font-family: serif;
+    font-size: 24px;
+}
+
+
+.section4 {
+    box-sizing: border-box;
+    /* border: 5px solid black; */
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 15px;
+}
+
+.section4 > img {
+    width: 70%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0px auto;
+    display: block;
+}
+
+.section5 {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100px;
+    clear: both;
+}
