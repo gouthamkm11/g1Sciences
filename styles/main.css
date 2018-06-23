@@ -1,0 +1,28 @@
+.container{
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+.head{
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 100%;
+    height: 15%;
+    background-color: tomato;
+}
+
+.footer {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 100%;
+    height: 15%;
+    background-color: dodgerblue;
+}
+
+.section {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 100%;
+    height: 70%;
+    background-color: dodgerblue;
+}

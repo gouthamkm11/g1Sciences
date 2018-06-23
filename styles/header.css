@@ -1,0 +1,31 @@
+.logo {
+    float: left;
+    width: 30%;
+    /* border: 5px solid black; */
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    color: yellow;
+    font-size: 27px;
+    font-family: serif;
+}
+
+.navBar {
+    float: right;
+    width: 70%;
+    /* border: 5px solid black; */
+    box-sizing: border-box;
+    
+}
+
+.navBar > a {
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+    float: right;
+    padding: 10px;
+}
